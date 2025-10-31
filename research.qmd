@@ -1,0 +1,31 @@
+---
+format: 
+  html:
+    css: style.css
+page-layout: full
+---
+
+<h1 style="text-align:center;color:#003366;">Research</h1>
+
+<div style="display: flex; justify-content: center; gap: 25px; margin-top: 20px; flex-wrap: wrap;">
+
+<!-- ===== Research Project 1 ===== -->
+<div style="text-align: center;">
+  <img src="images/research1.jpg" alt="Kelp Mapping" width="280">
+  <h4 style="margin-top: 10px;">Hyperspectral Modeling of Kelp Forests</h4>
+  <p style="max-width: 280px; margin: auto;">
+    Developing PRISMA-based hyperspectral models validated using UAV imagery to map kelp canopy structure and health along coastal regions. 
+    <br><i>(Ongoing, UMass Boston)</i>
+  </p>
+</div>
+
+<!-- ===== Research Project 2 ===== -->
+<div style="text-align: center;">
+  <img src="images/research2.jpg" alt="Water Quality ML" width="280">
+  <h4 style="margin-top: 10px;">Machine Learning for Water Quality Retrieval</h4>
+  <p style="max-width: 280px; margin: auto;">
+    Applying Mixture Density Networks (MDN) for estimating chlorophyll-a and turbidity from multispectral imagery in optically complex waters. 
+    <br><i>(Collaboration: IIT Madras & NASA/UMBC)</i>
+  </p>
+</div>
+

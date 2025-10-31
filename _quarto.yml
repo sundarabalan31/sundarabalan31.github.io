@@ -1,0 +1,30 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "S. V. Balasubramanian"
+  description: "Postdoctoral Fellow, UMass Boston | Ocean Satellite Remote Sensing | Aquatic Optics | Data Science"
+  navbar:
+    right:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: research.qmd
+        text: Research
+      - href: publications.qmd
+        text: Publications
+      - href: teaching.qmd
+        text: Teaching
+      - href: contact.qmd
+        text: Contact
+  page-footer:
+    left: "© 2025 Dr. S. V. Balasubramanian"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    page-layout: full

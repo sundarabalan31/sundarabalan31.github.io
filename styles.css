@@ -1,0 +1,154 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&family=Open+Sans:wght@400;600&display=swap');
+
+h1, h2, h3, h4, h5 {
+  font-family: "Merriweather", serif;
+}
+
+body, p, a, li, div {
+  font-family: "Open Sans", sans-serif;
+}
+
+.hero {
+  display: flex;
+  align-items: center;
+  gap: 25px;
+  margin-bottom: 40px;
+  background: linear-gradient(to right, #e6f0fa, #f8fbff);
+  padding: 20px;
+  border-radius: 15px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.05);
+}
+p{
+  color: black;
+  font-size: 19px;
+}
+.profile-pic {
+  width: 350px;
+  height: 350px;
+  border-radius: 50%;
+  object-fit: cover;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.2);
+}
+
+a {
+  color: #0066cc;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+p a {
+  color: #0077cc;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+p a:hover {
+  text-decoration: underline;
+}
+.navbar {
+  min-height: 90px ;  
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+.navbar {
+  background-color: #003366 !important;   /* change this color */
+}
+
+.navbar a, .navbar-nav .nav-link {
+  color: white !important;
+  font-weight: 500;
+}
+
+.navbar a:hover, .navbar-nav .nav-link:hover {
+  color: #ffcc00 !important;  
+}
+
+.teaching-page {
+  color: #e0e0e0;
+  background-color: rgba(0,0,0,0.5);
+  padding: 20px 60px;
+  border-radius: 12px;
+}
+.about-entity{
+  margin-top: 50px;
+}
+.teaching-title {
+  text-align: center;
+  font-size: 2.2rem;
+  font-weight: 600;
+  color: ;
+  margin-bottom: 30px;
+}
+
+.teaching-page h2 {
+  color: #003366 ;
+  border-bottom: 1px solid rgba(255,255,255,0.2);
+  padding-bottom: 5px;
+  margin-top: 30px;
+  font-weight: 600;
+}
+
+.teaching-page strong {
+  color: #fff;
+}
+
+.teaching-page em {
+  color: #b0c4de;
+}
+
+.teaching-page ul, 
+.teaching-page p, 
+.teaching-page li {
+  color: #eaeaea;
+  line-height: 1.6;
+  font-size: 1rem;
+}
+
+.teaching-page hr {
+  border: none;
+  border-top: 1px solid rgba(255,255,255,0.2);
+  margin: 25px 0;
+}
+.btn-scholar {
+  background-color: #003366;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 5px;
+  text-decoration: none;
+  font-weight: 500;
+  transition: 0.3s;
+}
+
+.btn-scholar:hover {
+  background-color: #003f63;
+}
+.teaching-heading {
+  font-size: 23px;
+  font-weight: 600;
+}
+strong{
+  font-size: 18px;
+}
+.social-icons {
+  display: flex;
+  justify-content: center;
+  gap: 25px;
+  margin-top: 25px;
+}
+
+.social-icons a {
+  color: #003f63;
+  text-decoration: none;
+  gap: 30px;
+  transition: transform 0.2s ease;
+}
+
+.social-icons a:hover {
+  transform: scale(1.1);
+}
+li{
+  font-size: 19px;
+  color: black;
+}

@@ -1,0 +1,72 @@
+[
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "\nTeaching\n",
+    "section": "",
+    "text": "Teaching"
+  },
+  {
+    "objectID": "teaching.html#teaching-experience",
+    "href": "teaching.html#teaching-experience",
+    "title": "\nTeaching\n",
+    "section": "Teaching Experience",
+    "text": "Teaching Experience\n\nUniversity of Massachusetts Boston, USA\n\nTeaching Assistant (Sept – Dec 2025) Handled Kelp Remote Sensing Lab for undergraduate students, Department of Biology. Responsibilities included guiding students in radiometric data collection, processing satellite imagery, and supporting research-based learning.\n\nNational Institute of Technology (NIT), Calicut, India\n\nAdhoc Faculty (Aug – Dec 2015) Handled Digital Image Processing course for M.Tech (ECE) students. Designed assignments, conducted lab sessions, and evaluated project-based assessments.\n\nIndian Institute of Information Technology (IIIT), Kurnool, India\n\nVisiting Faculty (2015) Handled Basic Electrical Engineering for undergraduate Computer Science students. Introduced fundamental electrical concepts through demonstrations and problem-solving sessions."
+  },
+  {
+    "objectID": "teaching.html#workshops-conducted",
+    "href": "teaching.html#workshops-conducted",
+    "title": "\nTeaching\n",
+    "section": "Workshops Conducted",
+    "text": "Workshops Conducted\n\nMarch 2024 – Fundamentals of Machine Learning and its Applications in Ocean Color Remote Sensing\nOrganized a one-day workshop for undergraduate students at Kalasalingam University, India.\nDecember 2024 – Integrated Remote Sensing and Radiative Transfer Modeling Framework for Coastal Water Studies\nConducted a one-day winter workshop for Ph.D. scholars at Department of Ocean Engineering, IIT Madras, India."
+  },
+  {
+    "objectID": "teaching.html#mentorship-and-supervision",
+    "href": "teaching.html#mentorship-and-supervision",
+    "title": "\nTeaching\n",
+    "section": "Mentorship and Supervision",
+    "text": "Mentorship and Supervision\n\n2025 – Present – Mentor for Ph.D. student Nivedita Priyadarshini, Department of Geosciences, Virginia Tech, Blacksburg, VA, USA\n\n2023 – Mentor for Sandhani, Ph.D. student, Department of Ocean Engineering, IIT Madras, India\n\n2020 – 2024 – Supervised undergraduate interns including Catherine (2024) and Manjunath (2020) on remote sensing and image analysis projects\n\n2020 – 2025 – Project Lead, Geosensing and Imaging Consultancy (GeoSI), Trivandrum — supervised junior engineers and internship students on satellite image processing and machine learning projects"
+  },
+  {
+    "objectID": "teaching.html#guest-lectures-delivered",
+    "href": "teaching.html#guest-lectures-delivered",
+    "title": "\nTeaching\n",
+    "section": "Guest Lectures Delivered",
+    "text": "Guest Lectures Delivered\n\n2024 – Ocean Color Remote Sensing, Saveetha University, India\n\n2023 – Mixture Density Networks (MDN) for Water Quality Parameter Retrieval over Inland and Coastal Waters, VIT, Chennai, India\n\n2019 – Satellite Image Processing for Ocean Applications, Chennai Institute of Technology, India\n\n2018 – Aquatic Remote Sensing, Adhiyamaan Engineering College, India\n\n2017 – Satellite Image Processing for Ocean Applications, Rohini Engineering College, Chennai, India"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "\nPublications\n",
+    "section": "",
+    "text": "Publications\n\n\nPublished Reports\n\n\nIOCCG (2025).\nIntercomparison of Atmospheric Correction Algorithms Over Optically Complex Waters. Jamet, C., and Balasubramanian, S.V. (eds.), Reports of the International Ocean-Colour Coordinating Group, No. 21, Dartmouth, Canada. IOCCG Report\n\n\nPublished Datasets\n\n\nWerther, M., Gurlin, D., Burggraaff, O., & Balasubramanian, S.V. (2025).\nOn the generalization ability of probabilistic neural networks for hyperspectral remote sensing of absorption properties across optically complex waters.DOI:10.5281/zenodo.14893798\nLehmann, M. K., Gurlin, D., Pahlevan, N., Alikas, K., Anstee, J. M., Balasubramanian, S.V., et al. (2022).\nGLORIA - A global dataset of remote sensing reflectance and water quality from inland and coastal waters.DOI:10.1594/PANGAEA.948492\n\n\nRefereed Publications\n\n\nWerther, M., Burggraaff, O., Gurlin, D., Saranathan, A. M., Balasubramanian, S.V., et al. (2025). On the generalization ability of neural networks for hyperspectral remote sensing of absorption properties across optically complex waters. Remote Sensing of Environment, 328.\n\nBalasubramanian, S.V., et al. (2025). Mixture density networks for reconstructing historical ocean-color products over inland and coastal waters: Demonstration and validation. Frontiers in Remote Sensing, 6.\n\nSaranathan, A.M., Pahlevan, N., Werther, M., Odermatt, D., Balasubramanian, S.V. (2024). Assessment of probabilistic neural networks for the dual estimation of water quality indicators and uncertainties from multi- and hyperspectral observations. Frontiers in Remote Sensing, 5.\n\nSandhani, C.G., Shanmugam, P., Balasubramanian, S.V., Sannasiraj, S.A. (2024). Influence of the Bubbles on the Hyperspectral Reflectance and Watercolour Products. IEEE Access, 12.\n\nPahlevan, N., Balasubramanian, S.V., et al. (2024). Going beyond Chlorophyll-a: A re-assessment of remote sensing reflectance products from heritage ocean color satellites over inland and coastal waters. IEEE Transactions on Geoscience and Remote Sensing, 21.\n\nMaciel, D.A., Pahlevan, N., Barbosa, C.C.F., Martins, V.S., Smith, B., O’Shea, R.E., Balasubramanian, S.V., Saranathan, A.M., Novo, E.M.L.M. (2023). Towards global long-term water transparency products from the Landsat archive. Remote Sensing of Environment, 299, 113889.\n\nMoritz, K.L., Pahlevan, N., Balasubramanian, S.V., et al. (2023). GLORIA — A globally representative hyperspectral in situ dataset for optical sensing of water quality. Scientific Data, 10(1).\n\nPahlevan, N., Mangin, A., Balasubramanian, S.V., et al. (2021). ACIX-Aqua: A global assessment of atmospheric correction methods for Landsat-8 and Sentinel-2 over lakes, rivers, and coastal waters. Remote Sensing of Environment, 258, 112366.\n\nBalasubramanian, S.V., Pahlevan, N., et al. (2020). A robust remote sensing technique for the estimation of suspended sediment concentration over inland and coastal waters. Remote Sensing of Environment, 246, 111768.\n\nPahlevan, N., Chittimalli, S.K., Balasubramanian, S.V., Vellucci, V. (2019). Sentinel-2/Landsat-8 product consistency and implications for monitoring aquatic systems. Remote Sensing of Environment, 201, 47-56.\n\nPahlevan, N., Balasubramanian, S.V., Sarkar, S., Franz, B. (2018). Towards long-term aquatic science products from heritage Landsat missions. Remote Sensing, 10, 1337.\n\nSayoob, V., Shanmugam, P., Balasubramanian, S.V. (2018). Monte Carlo simulations of backscattering measurements for associated uncertainty. Optics Express, 26, 21258-21270.\n\nPahlevan, N., Sarkar, S., Franz, B., Balasubramanian, S.V., He, J. (2017). Sentinel-2 MSI data processing for aquatic science applications: Demonstrations and validations. Remote Sensing of Environment, 201, 47-56.\n\nBalasubramanian, S.V., Shanmugam, P. (2016). Modeling of underwater light field fluctuations in coastal oceanic waters: Validation with experimental data. Ocean Science Journal, 51, 67-86.\n\nBalasubramanian, S.V., Shanmugam, P. (2015). Modeling of underwater light fields in turbid and eutrophic waters: Application and validation with experimental data. Ocean Science, 11, 33-52.\n\nGokul, E., Shanmugam, P., Balasubramanian, S.V., Arvind, S., Chauhan, P. (2014). Modeling the inherent optical properties and estimating the constituents’ concentrations in turbid and eutrophic waters. Continental Shelf Research, 84, 120-138.\n\nBalasubramanian, S.V., Shanmugam, P., Manjusha, S.S. (2013). Radiative transfer modeling of upwelling light field in coastal waters. Journal of Quantitative Spectroscopy and Radiative Transfer, 121, 30-44.\n\nShanmugam, P., Suresh, M., Balasubramanian, S.V. (2013). OSABT: An innovative algorithm to detect and characterize ocean surface algal blooms. IEEE J. Sel. Top. Appl. Earth Obs. Remote Sens., 6, 1879–1892.\n\nShanmugam, P., Balasubramanian, S.V., Ahn, Y.H., Ryu, J.H. (2011). A new inversion model to retrieve the particulate backscattering in coastal/ocean waters. IEEE Trans. Geosci. Remote Sens., 49, 2463-2474.\n\nShanmugam, P., Ahn, Y.H., Ryu, J.H., Balasubramanian, S.V. (2010). An evaluation of inversion models for retrieval of inherent optical properties from ocean color in coastal and open sea waters around Korea. Journal of Oceanography, 66, 815-830.\n\n\n  View on Google Scholar"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "\nGet in Touch\n",
+    "section": "",
+    "text": "Get in Touch\n\n\nI’m always happy to connect with fellow researchers, collaborators, and students interested in remote sensing, ocean optics, or environmental data analysis.Please feel free to reach out by email or connect through my academic profiles below.\n\n\n\nContact Me\n\n\nSundarabalan. V. Balasubramanian  Postdoctoral Fellow, Department of Biology, University of Massachusetts Boston, Department of Biology 100 Morrissey Blvd, Boston, MA 02125, USA vbsbalanin@gmail.com\n\n\nGoogle Scholar  |  GitHub  |   LinkedIn  |  Email"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "\nAbout Me\n",
+    "section": "",
+    "text": "About Me\n\n\n\nDr. S.V. Balasubramanian is a Postdoctoral Fellow in the Department of Biology at the University of Massachusetts Boston, USA.\nHe specializes in ocean color remote sensing, aquatic optics, hyperspectral imaging, and the use of machine learning for aquatic environmental monitoring.\n\n\nDr. Balasubramanian has over a decade of research experience in satellite remote sensing, optical modeling, and data-driven environmental analysis.He has worked at leading institutions including NASA Goddard Space Flight Center (GSFC), GESTAR-II/UMBC, and IIT Madras.His work bridges field observations, satellite product validation, and AI-based modeling frameworks for complex aquatic systems.\n\n\n\nResearch Interests\n\n\n\nOcean color remote sensing and optical property retrieval\n\n\nMachine and deep learning for aquatic environment monitoring\n\n\nHyperspectral data analysis and uncertainty quantification\n\n\nAtmospheric correction and bio-optical modeling\n\n\nIntegration of UAV, field, and satellite observations\n\n\n\n\nEducation\n\n\n\nPh.D. in Ocean Engineering (Ocean Optics), Indian Institute of Technology (IIT) Madras, India\n\n\nM.E. in Digital Communication Engineering, Anna University, Chennai\n\n\nB.E. in Electronics and Communication Engineering, Anna University, Chennai\n\n\n\n\nProfessional Experience\n\n\n\nPostdoctoral Fellow – University of Massachusetts Boston (2025–Present)\n\n\nPostdoctoral Fellow – NASA GSFC / UMBC / GESTAR-II (2017–2023)\n\n\nProject Lead – GeoSensing & Imaging (GeoSI) Consultancy, India (2020–2025)\n\n\nSoftware Engineer – Sheeba Computers, Bangalore (2007 – 2009)\n\n\n\n\n  Contact"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "\nDr. S. V. Balasubramanian\n",
+    "section": "",
+    "text": "Dr. S. V. Balasubramanian\n\n\nPostdoctoral Fellow, Department of Biology\n\n\nUniversity of Massachusetts Boston\n\n\n\n\n\nI am a remote sensing scientist specializing in ocean satellite remote sensing and aquatic optics. Currently, I serve as a Postdoctoral Fellow at the University of Massachusetts Boston, where my work focuses on hyperspectral modeling of kelp forests and machine learning frameworks for water quality retrieval.\n\n\nPreviously, I held research positions at NASA Goddard Space Flight Center (UMD) and GESTAR-II, UMBC, contributing to projects on radiative transfer modeling and satellite image analysis of inland and coastal waters. I earned my Ph.D. in Ocean Engineering from IIT Madras, India, where my doctoral research focused on underwater light field modeling and optical property retrieval.\n\n\nMy broader research vision integrates satellite, drone, and in-situ observations with data-driven methods to better understand aquatic ecosystem processes and their variability under changing environmental conditions.\n\n\n\n\nGoogle Scholar  |  GitHub  |   CV  |  Email"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "\nResearch\n",
+    "section": "",
+    "text": "Research\n\n\n\n\n\n\nHyperspectral Modeling of Kelp Forests\n\n\nDeveloping PRISMA-based hyperspectral models validated using UAV imagery to map kelp canopy structure and health along coastal regions. (Ongoing, UMass Boston)\n\n\n\n\n\n\nMachine Learning for Water Quality Retrieval\n\n\nApplying Mixture Density Networks (MDN) for estimating chlorophyll-a and turbidity from multispectral imagery in optically complex waters. (Collaboration: IIT Madras & NASA/UMBC)"
+  }
+]

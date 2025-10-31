@@ -1,0 +1,40 @@
+
+<div class="text-center">
+  <img src="images/profile1.png" alt="Profile photo" class="profile-pic">
+
+  <h1>Dr. S. V. Balasubramanian</h1>
+  <h3>Postdoctoral Fellow, Department of Biology</h3>
+  <h4>University of Massachusetts Boston</h4>
+</div>
+
+---
+
+<div style="max-width: 850px; margin: 40px auto; text-align: justify; font-size: 1.05em; line-height: 1.7;">
+  <p>
+    I am a remote sensing scientist specializing in ocean satellite remote sensing and aquatic optics. 
+    Currently, I serve as a Postdoctoral Fellow at the University of Massachusetts Boston, where my work focuses on 
+    hyperspectral modeling of kelp forests and machine learning frameworks for water quality retrieval.
+  </p>
+
+  <p>
+    Previously, I held research positions at NASA Goddard Space Flight Center (UMD) and GESTAR-II, UMBC, 
+    contributing to projects on radiative transfer modeling and satellite image analysis of inland and coastal waters. 
+    I earned my Ph.D. in Ocean Engineering from IIT Madras, India, where my doctoral research focused on 
+    underwater light field modeling and optical property retrieval.
+  </p>
+
+  <p>
+    My broader research vision integrates satellite, drone, and in-situ observations with data-driven methods to better understand aquatic ecosystem processes and their variability under changing environmental conditions.
+  </p>
+</div>
+
+---
+
+
+<p style="text-align:center; font-size:17px;">
+  <a href="https://scholar.google.com/citations?hl=en&user=-_-rEs0AAAAJ" target="_blank">Google Scholar</a> &nbsp;|&nbsp;
+   <a href="https://github.com/sundarabalan31" target="_blank">GitHub</a> &nbsp;|&nbsp;
+   <a href="files/CV_Sundarabalan.pdf" target="_blank"> CV</a>
+ &nbsp;|&nbsp;
+   <a href="mailto:vbsbalanin@gmail.com">Email</a>
+</p>

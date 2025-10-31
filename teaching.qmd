@@ -1,0 +1,63 @@
+---
+page-layout: full
+format:
+  html:
+    theme: flatly
+    css: styles.css
+    body-class: page-teaching
+---
+
+<h1 style="text-align:center; color:#003366;">
+
+Teaching
+
+</h1>
+
+## Teaching Experience
+
+<h3 style="font-size:20px; color:#003366; margin-top:25px;">
+
+University of Massachusetts Boston, USA
+
+</h3>
+
+<strong>Teaching Assistant (Sept – Dec 2025)</strong><br> Handled Kelp Remote Sensing Lab for undergraduate students, Department of Biology. Responsibilities included guiding students in radiometric data collection, processing satellite imagery, and supporting research-based learning.
+
+<h3 style="font-size:20px; color:#003366; margin-top:25px;">
+
+National Institute of Technology (NIT), Calicut, India
+
+</h3>
+
+<strong>Adhoc Faculty (Aug – Dec 2015)</strong><br> Handled Digital Image Processing course for M.Tech (ECE) students. Designed assignments, conducted lab sessions, and evaluated project-based assessments.
+
+<h3 style="font-size:20px; color:#003366; margin-top:25px;">
+
+Indian Institute of Information Technology (IIIT), Kurnool, India
+
+</h3>
+
+<strong>Visiting Faculty (2015)</strong><br> Handled Basic Electrical Engineering for undergraduate Computer Science students. Introduced fundamental electrical concepts through demonstrations and problem-solving sessions.
+
+## Workshops Conducted
+
+-   **March 2024** – Fundamentals of Machine Learning and its Applications in Ocean Color Remote Sensing\
+    Organized a one-day workshop for **undergraduate students at Kalasalingam University, India.**
+
+-   **December 2024** – Integrated Remote Sensing and Radiative Transfer Modeling Framework for Coastal Water Studies\
+    Conducted a one-day winter workshop for **Ph.D. scholars at Department of Ocean Engineering, IIT Madras, India.**
+
+## Mentorship and Supervision
+
+-   **2025 – Present** – Mentor for Ph.D. student Nivedita Priyadarshini, Department of Geosciences, Virginia Tech, Blacksburg, VA, USA\
+-   **2023** – Mentor for Sandhani, Ph.D. student, Department of Ocean Engineering, IIT Madras, India\
+-   **2020 – 2024** – Supervised undergraduate interns including Catherine (2024) and Manjunath (2020) on remote sensing and image analysis projects\
+-   **2020 – 2025** – Project Lead, Geosensing and Imaging Consultancy (GeoSI), Trivandrum — supervised junior engineers and internship students on satellite image processing and machine learning projects
+
+## Guest Lectures Delivered
+
+-   **2024** – Ocean Color Remote Sensing, Saveetha University, India\
+-   **2023** – Mixture Density Networks (MDN) for Water Quality Parameter Retrieval over Inland and Coastal Waters, VIT, Chennai, India\
+-   **2019** – Satellite Image Processing for Ocean Applications, Chennai Institute of Technology, India\
+-   **2018** – Aquatic Remote Sensing, Adhiyamaan Engineering College, India\
+-   **2017** – Satellite Image Processing for Ocean Applications, Rohini Engineering College, Chennai, India

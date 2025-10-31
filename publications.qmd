@@ -1,0 +1,59 @@
+---
+page-layout: full
+format:
+  html:
+    theme: flatly
+    toc: false
+    css: styles.css
+---
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
+<h1 style="text-align:center;color:#003366">Publications</h1>
+
+
+<h2 style="font-size:22px; color:#003366; margin-top:35px;">Published Reports</h2>
+
+-  **IOCCG (2025).**  
+Intercomparison of Atmospheric Correction Algorithms Over Optically Complex Waters. 
+Jamet, C., and Balasubramanian, S.V. (eds.), Reports of the International Ocean-Colour Coordinating Group, No. 21, Dartmouth, Canada. 
+ [IOCCG Report](https://ioccg.org)
+
+
+<h2 style="font-size:22px; color:#003366; margin-top:35px;">Published Datasets</h2>
+-  **Werther, M., Gurlin, D., Burggraaff, O., & Balasubramanian, S.V. (2025).**  
+  On the generalization ability of probabilistic neural networks for hyperspectral remote sensing of absorption properties across optically complex waters.[DOI:10.5281/zenodo.14893798](https://doi.org/10.5281/zenodo.14893798)
+
+-  **Lehmann, M. K., Gurlin, D., Pahlevan, N., Alikas, K., Anstee, J. M., Balasubramanian, S.V., et al. (2022).**  
+  GLORIA - A global dataset of remote sensing reflectance and water quality from inland and coastal waters.[DOI:10.1594/PANGAEA.948492](https://doi.org/10.1594/PANGAEA.948492)
+
+
+<h2 style="font-size:22px; color:#003366; margin-top:35px;">Refereed Publications</h2>
+1. Werther, M., Burggraaff, O., Gurlin, D., Saranathan, A. M., **Balasubramanian, S.V.**, et al. (2025). *On the generalization ability of neural networks for hyperspectral remote sensing of absorption properties across optically complex waters.* **Remote Sensing of Environment**, 328.  
+2. **Balasubramanian, S.V.**, et al. (2025). *Mixture density networks for reconstructing historical ocean-color products over inland and coastal waters: Demonstration and validation.* **Frontiers in Remote Sensing**, 6.  
+3. Saranathan, A.M., Pahlevan, N., Werther, M., Odermatt, D., **Balasubramanian, S.V.** (2024). *Assessment of probabilistic neural networks for the dual estimation of water quality indicators and uncertainties from multi- and hyperspectral observations.* **Frontiers in Remote Sensing**, 5.  
+4. Sandhani, C.G., Shanmugam, P., **Balasubramanian, S.V.**, Sannasiraj, S.A. (2024). *Influence of the Bubbles on the Hyperspectral Reflectance and Watercolour Products.* **IEEE Access**, 12.  
+5. Pahlevan, N., **Balasubramanian, S.V.**, et al. (2024). *Going beyond Chlorophyll-a: A re-assessment of remote sensing reflectance products from heritage ocean color satellites over inland and coastal waters.* **IEEE Transactions on Geoscience and Remote Sensing**, 21.  
+6. Maciel, D.A., Pahlevan, N., Barbosa, C.C.F., Martins, V.S., Smith, B., O'Shea, R.E., **Balasubramanian, S.V.**, Saranathan, A.M., Novo, E.M.L.M. (2023). *Towards global long-term water transparency products from the Landsat archive.* **Remote Sensing of Environment**, 299, 113889.  
+7. Moritz, K.L., Pahlevan, N., **Balasubramanian, S.V.**, et al. (2023). *GLORIA — A globally representative hyperspectral in situ dataset for optical sensing of water quality.* **Scientific Data**, 10(1).  
+8. Pahlevan, N., Mangin, A., **Balasubramanian, S.V.**, et al. (2021). *ACIX-Aqua: A global assessment of atmospheric correction methods for Landsat-8 and Sentinel-2 over lakes, rivers, and coastal waters.* **Remote Sensing of Environment**, 258, 112366.  
+9. **Balasubramanian, S.V.**, Pahlevan, N., et al. (2020). *A robust remote sensing technique for the estimation of suspended sediment concentration over inland and coastal waters.* **Remote Sensing of Environment**, 246, 111768.  
+10. Pahlevan, N., Chittimalli, S.K., **Balasubramanian, S.V.**, Vellucci, V. (2019). *Sentinel-2/Landsat-8 product consistency and implications for monitoring aquatic systems.* **Remote Sensing of Environment**, 201, 47-56.  
+11. Pahlevan, N., **Balasubramanian, S.V.**, Sarkar, S., Franz, B. (2018). *Towards long-term aquatic science products from heritage Landsat missions.* **Remote Sensing**, 10, 1337.  
+12. Sayoob, V., Shanmugam, P., **Balasubramanian, S.V.** (2018). *Monte Carlo simulations of backscattering measurements for associated uncertainty.* **Optics Express**, 26, 21258-21270.  
+13. Pahlevan, N., Sarkar, S., Franz, B., **Balasubramanian, S.V.**, He, J. (2017). *Sentinel-2 MSI data processing for aquatic science applications: Demonstrations and validations.* **Remote Sensing of Environment**, 201, 47-56.  
+14. **Balasubramanian, S.V.**, Shanmugam, P. (2016). *Modeling of underwater light field fluctuations in coastal oceanic waters: Validation with experimental data.* **Ocean Science Journal**, 51, 67-86.  
+15. **Balasubramanian, S.V.**, Shanmugam, P. (2015). *Modeling of underwater light fields in turbid and eutrophic waters: Application and validation with experimental data.* **Ocean Science**, 11, 33-52.  
+16. Gokul, E., Shanmugam, P., **Balasubramanian, S.V.**, Arvind, S., Chauhan, P. (2014). *Modeling the inherent optical properties and estimating the constituents’ concentrations in turbid and eutrophic waters.* **Continental Shelf Research**, 84, 120-138.  
+17. **Balasubramanian, S.V.**, Shanmugam, P., Manjusha, S.S. (2013). *Radiative transfer modeling of upwelling light field in coastal waters.* **Journal of Quantitative Spectroscopy and Radiative Transfer**, 121, 30-44.  
+18. Shanmugam, P., Suresh, M., **Balasubramanian, S.V.** (2013). *OSABT: An innovative algorithm to detect and characterize ocean surface algal blooms.* **IEEE J. Sel. Top. Appl. Earth Obs. Remote Sens.**, 6, 1879–1892.  
+19. Shanmugam, P., **Balasubramanian, S.V.**, Ahn, Y.H., Ryu, J.H. (2011). *A new inversion model to retrieve the particulate backscattering in coastal/ocean waters.* **IEEE Trans. Geosci. Remote Sens.**, 49, 2463-2474.  
+20. Shanmugam, P., Ahn, Y.H., Ryu, J.H., **Balasubramanian, S.V.** (2010). *An evaluation of inversion models for retrieval of inherent optical properties from ocean color in coastal and open sea waters around Korea.* **Journal of Oceanography**, 66, 815-830.
+
+
+<div style="text-align:center; margin-bottom:20px;">
+  <a href="https://scholar.google.com/citations?user=-_-rEs0AAAAJ" target="_blank" class="btn-scholar">
+    <i class="fa-solid fa-graduation-cap"></i> View on Google Scholar
+  </a>
+</div>
+

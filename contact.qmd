@@ -1,0 +1,34 @@
+---
+page-layout: full
+format:
+  html:
+    theme: flatly
+    toc: false
+    css: styles.css
+---
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
+<!-- Main Heading -->
+<h1 style=" color:#003f63; font-size:28px; margin-bottom:10px;">Get in Touch</h1>
+
+<p style=" font-size:18px; color:#333;">
+I’m always happy to connect with fellow researchers, collaborators, and students interested in <strong>remote sensing, ocean optics, or environmental data analysis</strong>.Please feel free to reach out by email or connect through my academic profiles below.
+</p>
+---
+<h1 style="color:#003f63; font-size:28px; margin-bottom:10px;">Contact Me</h1>
+<p style="font-size:18px; line-height:1.6; color:black;">
+Sundarabalan. V. Balasubramanian <br>
+Postdoctoral Fellow, Department of Biology,<br> University of Massachusetts Boston, Department of Biology<br>
+100 Morrissey Blvd, Boston, MA 02125, USA
+<br>vbsbalanin@gmail.com
+</p>
+
+<p style="font-size:17px;">
+  <a href="https://scholar.google.com/citations?hl=en&user=-_-rEs0AAAAJ" target="_blank">Google Scholar</a> &nbsp;|&nbsp;
+   <a href="https://github.com/sundarabalan31" target="_blank">GitHub</a> &nbsp;|&nbsp;
+   <a href="https://www.linkedin.com/in/sundar-balan-ba5a91143/" target="_blank"> LinkedIn</a>
+ &nbsp;|&nbsp;
+   <a href="mailto:vbsbalanin@gmail.com">Email</a>
+</p>
+
