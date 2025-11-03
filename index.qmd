@@ -2,14 +2,14 @@
 <div class="text-center">
   <img src="images/profile1.png" alt="Profile photo" class="profile-pic">
 
-  <h1>Dr. S. V. Balasubramanian</h1>
-  <h3>Postdoctoral Fellow, Department of Biology</h3>
+  <h1 style="color:#003366;">Sundarabalan .V. Balasubramanian</h1>
+  <h3 style="font-size:22px;">Postdoctoral Fellow, Department of Biology</h3>
   <h4>University of Massachusetts Boston</h4>
 </div>
 
 ---
 
-<div style="max-width: 850px; margin: 40px auto; text-align: justify; font-size: 1.05em; line-height: 1.7;">
+<div style="max-width: 1500px; margin: 20px auto; text-align: justify; font-size: 1.05em; line-height: 1.7;">
   <p>
     I am a remote sensing scientist specializing in ocean satellite remote sensing and aquatic optics. 
     Currently, I serve as a Postdoctoral Fellow at the University of Massachusetts Boston, where my work focuses on 

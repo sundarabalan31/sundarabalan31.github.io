@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "S. V. Balasubramanian"
+  title: "Sundarabalan. V. Balasubramanian"
   description: "Postdoctoral Fellow, UMass Boston | Ocean Satellite Remote Sensing | Aquatic Optics | Data Science"
   navbar:
     right:

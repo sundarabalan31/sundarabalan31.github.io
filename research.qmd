@@ -7,25 +7,24 @@ page-layout: full
 
 <h1 style="text-align:center;color:#003366;">Research</h1>
 
-<div style="display: flex; justify-content: center; gap: 25px; margin-top: 20px; flex-wrap: wrap;">
 
 <!-- ===== Research Project 1 ===== -->
-<div style="text-align: center;">
-  <img src="images/research1.jpg" alt="Kelp Mapping" width="280">
-  <h4 style="margin-top: 10px;">Hyperspectral Modeling of Kelp Forests</h4>
-  <p style="max-width: 280px; margin: auto;">
+<div style="display:flex; align-items:flex-start; gap:50px; margin:40px auto; flex-wrap:wrap; max-width:1200px;">
+  <img class="research-image" src="images/research2.jpg" alt="Kelp Mapping"
+       style="flex:0 0 450px; width:350px; max-width:100%; height:350px; object-fit:cover; border-radius:6px;">
+  <p style="max-width: 700px; flex:1; margin-top:40px; color:black; font-size:20px; line-height:1.7;">
+    <strong Style="font-size:30px;color:#003f63;">Hyperspectral Modeling of Kelp Forests</strong><br>
     Developing PRISMA-based hyperspectral models validated using UAV imagery to map kelp canopy structure and health along coastal regions. 
     <br><i>(Ongoing, UMass Boston)</i>
   </p>
 </div>
-
 <!-- ===== Research Project 2 ===== -->
-<div style="text-align: center;">
-  <img src="images/research2.jpg" alt="Water Quality ML" width="280">
-  <h4 style="margin-top: 10px;">Machine Learning for Water Quality Retrieval</h4>
-  <p style="max-width: 280px; margin: auto;">
+<div style="display:flex; align-items:flex-start; gap:50px; margin:40px auto; flex-wrap:wrap; max-width:1200px; flex-direction:row-reverse;">
+  <img src="images/research1.jpg" alt="Water Quality ML"
+       style="flex:0 0 450px; width:250px; max-width:100%; height:350px; object-fit:cover; border-radius:6px;">
+  <p style="max-width: 700px; flex:1; margin-top:40px;; color:black; font-size:20px; line-height:1.7;">
+    <strong Style="font-size:30px;color:#003f63;">Machine Learning for Water Quality Retrieval</strong><br>
     Applying Mixture Density Networks (MDN) for estimating chlorophyll-a and turbidity from multispectral imagery in optically complex waters. 
-    <br><i>(Collaboration: IIT Madras & NASA/UMBC)</i>
+    <br><i>(Collaboration: NASA)</i>
   </p>
 </div>
-
