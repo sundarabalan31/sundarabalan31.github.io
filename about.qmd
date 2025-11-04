@@ -10,6 +10,7 @@ about:
 
 
 <!-- Professional Summary -->
+<div style="text-align:left; max-width:900px; margin:auto;">
 <p style="font-size:18px; line-height:1.7; color:#333;">
  <strong>Sundarabalan .V. Balasubramanian</strong> is a Postdoctoral Fellow in the <strong>Department of Biology</strong> at the <strong>University of Massachusetts Boston</strong>, USA.  
 He specializes in <strong>ocean color remote sensing, aquatic optics, hyperspectral imaging,</strong> and the use of <strong>machine learning</strong> for aquatic environmental monitoring.
@@ -42,9 +43,9 @@ Sundarabalan has over a decade of research experience in <strong>satellite remot
   <li><strong>2005 – 2007 :</strong> **M.E.**, Digital Communication Engineering, Anna University, Chennai</li>
   <li><strong>2001 – 2005 :</strong> **B.E.**, Electronics and Communication Engineering, Anna University, Chennai</li>
 </ul>
-
+</div>
 <!-- Contact Button -->
-<div style="text-align:left; margin-top:30px;">
+<div style="text-align:start; margin-top:30px;">
   <a href="contact.html" 
      style="background-color:#005f8d; color:white; padding:10px 20px; border-radius:8px; text-decoration:none;">
      <i class="fa-solid fa-envelope"></i> Contact
