@@ -133,23 +133,81 @@ ul.task-list li input[type="checkbox"] {
       <header id="title-block-header" class="quarto-title-block"></header> 
       <div class="about-contents"><main class="content column-page" id="quarto-document-content">
 <p><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"></p>
-<h1 style="text-align:left; color:#003f63;">
-About Me
-</h1>
-<!-- Professional Summary -->
-<div style="text-align:left; max-width:900px; margin:auto;">
-<p style="font-size:18px; line-height:1.7; color:#333;">
-<strong>Sundarabalan .V. Balasubramanian</strong> is a Postdoctoral Fellow in the <strong>Department of Biology</strong> at the <strong>University of Massachusetts Boston</strong>, USA.<br>
-He specializes in <strong>ocean color remote sensing, aquatic optics, hyperspectral imaging,</strong> and the use of <strong>machine learning</strong> for aquatic environmental monitoring.
+<style>
+.accordion {
+  background-color: #f2f6f8;
+  color: #003f63;
+  cursor: pointer;
+  padding: 15px 20px;
+  width: 800px;
+  max-width: 100%;
+  text-align: left;
+  border: none;
+  outline: none;
+  font-size: 22px;
+  font-weight: bold;
+  transition: background-color 0.3s ease;
+  border-radius: 10px;
+  margin-top: 15px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.accordion:hover {
+  background-color: #e3eef4;
+}
+.panel {
+  max-height: 0;
+  overflow: hidden;
+  background-color: #ffffff;
+  border-left: 3px solid #005f8d;
+  margin-bottom: 10px;
+  transition: max-height 0.4s ease, padding 0.3s ease;
+  padding: 0 20px;
+}
+.panel.show {
+  padding: 15px 20px;
+  max-height: 1000px; /* enough for content */
+}
+.panel p, .panel ul {
+  font-size: 16px;
+  line-height: 1.7;
+  color: #333;
+  margin-top: 10px;
+  text-align: left;
+}
+@media (max-width: 768px) {
+  .accordion {
+    width: 100%;
+    font-size: 18px;
+    padding: 12px 15px;
+  }
+  .panel p, .panel ul {
+    font-size: 15px;
+    padding: 0;
+  }
+  h1 {
+    font-size: 22px !important;
+    text-align: left !important;
+  }
+}
+</style>
+<button class="accordion">
+About Me <i class="fa-solid fa-plus"></i>
+</button>
+<div class="panel">
+<p style="font-size:19px;color:black;">
+I am a <strong>Postdoctoral Fellow</strong> in the Department of Biology at the University of <strong>Massachusetts Boston, USA</strong>. My research focuses on <strong>ocean color remote sensing, aquatic optics, hyperspectral imaging</strong>, and the application of <strong>machine learning</strong> for aquatic environmental monitoring.
 </p>
-<p style="font-size:18px; line-height:1.7; color:#333; margin-top:20px;">
-Sundarabalan has over a decade of research experience in <strong>satellite remote sensing, optical modeling, and data-driven environmental analysis</strong>.He has worked at leading institutions including <strong>NASA Goddard Space Flight Center (GSFC)</strong>, <strong>GESTAR-II/UMBC</strong>, and <strong>IIT Madras</strong>.His work bridges <strong>field observations</strong>, <strong>satellite product validation</strong>, and <strong>AI-based modeling frameworks</strong> for complex aquatic systems.
+<p style="font-size:19px;color:black;">
+I have over a decade of experience in <strong>satellite remote sensing, optical modeling</strong>, and data-driven environmental analysis. I have worked with leading institutions including <strong>NASA Goddard Space Flight Center (GSFC), GESTAR-II/UMBC, and IIT Madras</strong>. My work connects field observations, satellite product validation, and AI-based modeling frameworks to better understand complex aquatic systems.
 </p>
-<!-- Research Interests -->
-<h2 style="color:#003f63; margin-top:30px;">
-Research Interests
-</h2>
-<ul style="font-size:16px; line-height:1.7; color:#003f63;">
+</div>
+<button class="accordion">
+Research Interests <i class="fa-solid fa-plus"></i>
+</button>
+<div class="panel">
+<ul>
 <li>
 <strong>Ocean Satellite Remote Sensing</strong> and applications for aquatic systems
 </li>
@@ -160,49 +218,92 @@ Research Interests
 <strong>Water Quality Assessment</strong> using multi-sensor satellite data
 </li>
 <li>
-<strong>Data Science</strong> approaches including <strong>Machine Learning (ML)</strong> and <strong>Deep Learning (DL)</strong>
+<strong>Machine Learning (ML)</strong> and <strong>Deep Learning (DL)</strong> for data analysis
 </li>
 <li>
 <strong>Field Measurements</strong> for optical and biogeochemical parameter validation
 </li>
 <li>
-Integration of <strong>Drone (UAV) Imagery</strong> and <strong>Underwater Imaging</strong> for coastal and inland water studies
-</li>
-</ul>
-<h2 style="color:#003f63; margin-top:30px;">
-Education and Academic Positions
-</h2>
-<ul style="font-size:16px; line-height:1.7; color:#003f63;">
-<li>
-<strong>May 2025 – Present :</strong> <strong>Postdoctoral Fellow</strong>, Department of Biology, University of Massachusetts Boston. Advisor: Prof.&nbsp;Jarrett Byrnes
-</li>
-<li>
-<strong>November 2022 – November 2023 :</strong> <strong>Postdoctoral Fellow</strong>, Goddard Earth Science Technology and Research (GESTAR-II), UMBC, USA. Advisor: Dr.&nbsp;Nima Pahlevan
-</li>
-<li>
-<strong>March 2017 – November 2019 :</strong> <strong>Postdoctoral Fellow</strong>, Goddard Space Flight Center (GSFC), NASA/UMD. Advisor: Dr.&nbsp;Nima Pahlevan
-</li>
-<li>
-<strong>January 2016 – January 2017 :</strong> <strong>Postdoctoral Fellow</strong>, Laboratory of Oceanology and Geoscience (LOG), ULCO, France. Advisor: Prof.&nbsp;Cedric Jamet
-</li>
-<li>
-<strong>May 2014 – November 2014 :</strong> <strong>Pre-doctoral Fellow</strong>, Indian Institute of Technology Madras, India. Advisor: Prof.&nbsp;Palanisamy Shanmugam
-</li>
-<li>
-<strong>2010 – 2015:</strong> Ph.D., Department of Ocean Engineering, IIT Madras, India. <em>Dissertation:</em> Radiative transfer modelling of underwater light fields in clear and turbid waters. Advisor: Prof.&nbsp;Palanisamy Shanmugam
-</li>
-<li>
-<strong>2005 – 2007 :</strong> <strong>M.E.</strong>, Digital Communication Engineering, Anna University, Chennai
-</li>
-<li>
-<strong>2001 – 2005 :</strong> <strong>B.E.</strong>, Electronics and Communication Engineering, Anna University, Chennai
+<strong>Drone (UAV) Imagery</strong> and <strong>Underwater Imaging</strong> for coastal and inland waters
 </li>
 </ul>
 </div>
-<!-- Contact Button -->
-<div style="text-align:start; margin-top:30px;">
+<button class="accordion">
+Education <i class="fa-solid fa-plus"></i>
+</button>
+<div class="panel">
+<ul>
+<li>
+<strong>Ph.D.</strong> in Ocean Engineering (Ocean Optics), IIT Madras, India
+</li>
+<li>
+<strong>M.E.</strong> in Digital Communication Engineering, Anna University, Chennai
+</li>
+<li>
+<strong>B.E.</strong> in Electronics and Communication Engineering, Anna University, Chennai
+</li>
+</ul>
+</div>
+<button class="accordion">
+Professional Experience <i class="fa-solid fa-plus"></i>
+</button>
+<div class="panel">
+<ul>
+<li>
+<strong>May 2025 – Present :</strong> <strong>Postdoctoral Fellow</strong>, Department of Biology, University of Massachusetts Boston, USA. Advisor: Prof.&nbsp;Jarrett Byrnes
+</li>
+<li>
+<strong>Nov 2022 – Nov 2023 :</strong> <strong>Postdoctoral Fellow</strong>, Goddard Earth Science Technology and Research (GESTAR-II), UMBC, USA. Advisor: Dr.&nbsp;Nima Pahlevan
+</li>
+<li>
+<strong>Mar 2017 – Nov 2019 :</strong> <strong>Postdoctoral Fellow</strong>, Goddard Space Flight Center (GSFC), NASA / UMD, USA. Advisor: Dr.&nbsp;Nima Pahlevan
+</li>
+<li>
+<strong>Jan 2016 – Jan 2017 :</strong> <strong>Postdoctoral Fellow</strong>, Laboratory of Oceanology and Geoscience (LOG), ULCO, France. Advisor: Prof.&nbsp;Cedric Jamet
+</li>
+<li>
+<strong>May 2014 – Nov 2014 :</strong> <strong>Pre-doctoral Fellow</strong>, Indian Institute of Technology Madras, India. Advisor: Prof.&nbsp;Palanisamy Shanmugam
+</li>
+<li>
+<strong>2020 – 2025 :</strong> <strong>Project Lead</strong>, GeoSensing &amp; Imaging (GeoSI), India
+</li>
+<li>
+<strong>2009 – 2010 :</strong> <strong>Project Associate</strong>, IIT Madras, Chennai, India
+</li>
+<li>
+<strong>2007 – 2009 :</strong> <strong>Software Engineer</strong>, Sheeba Computers, Bangalore, India
+</li>
+</ul>
+</div>
+<div style="text-align:left; margin-top:30px;">
 <p><a href="contact.html" style="background-color:#005f8d; color:white; padding:10px 20px; border-radius:8px; text-decoration:none;"> <i class="fa-solid fa-envelope"></i> Contact </a></p>
 </div>
+<script>
+const acc = document.querySelectorAll(".accordion");
+acc.forEach(button => {
+  button.addEventListener("click", function () {
+    const panel = this.nextElementSibling;
+    const icon = this.querySelector("i");
+    // Close other panels
+    acc.forEach(other => {
+      if (other !== this) {
+        other.classList.remove("active");
+        other.nextElementSibling.classList.remove("show");
+        other.querySelector("i").classList.replace("fa-minus", "fa-plus");
+      }
+    });
+    // Toggle current
+    this.classList.toggle("active");
+    panel.classList.toggle("show");
+    // Icon toggle
+    if (panel.classList.contains("show")) {
+      icon.classList.replace("fa-plus", "fa-minus");
+    } else {
+      icon.classList.replace("fa-minus", "fa-plus");
+    }
+  });
+});
+</script>
 
 
 </main></div>

@@ -3,7 +3,7 @@
   <img src="images/profile1.png" alt="Profile photo" class="profile-pic">
 
   <h1 style="color:#003366;">Sundarabalan .V. Balasubramanian</h1>
-  <h3 style="font-size:22px;">Postdoctoral Fellow, Department of Biology</h3>
+  <h3 style="font-size:22px;">Postdoctoral Fellow , The Byrnes Lab , Department of Biology</h3>
   <h4>University of Massachusetts Boston</h4>
 </div>
 
