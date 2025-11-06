@@ -12,7 +12,7 @@ format:
 <h1 style="text-align:center;color:#003366">Publications</h1>
 
 
-<h2 style="font-size:22px; color:#003366; margin-top:35px;">Published Reports</h2>
+<h2 style="font-size:25px; color:#003366; margin-top:35px;">Published Reports</h2>
 
 -  **IOCCG (2025).**  
 Intercomparison of Atmospheric Correction Algorithms Over Optically Complex Waters. 
@@ -20,7 +20,7 @@ Jamet, C., and Balasubramanian, S.V. (eds.), Reports of the International Ocean-
  [IOCCG Report](https://ioccg.org)
 
 
-<h2 style="font-size:22px; color:#003366; margin-top:35px;">Published Datasets</h2>
+<h2 style="font-size:25px; color:#003366; margin-top:35px;">Published Datasets</h2>
 -  **Werther, M., Gurlin, D., Burggraaff, O., & Balasubramanian, S.V. (2025).**  
   On the generalization ability of probabilistic neural networks for hyperspectral remote sensing of absorption properties across optically complex waters.[DOI:10.5281/zenodo.14893798](https://doi.org/10.5281/zenodo.14893798)
 
@@ -28,14 +28,14 @@ Jamet, C., and Balasubramanian, S.V. (eds.), Reports of the International Ocean-
   GLORIA - A global dataset of remote sensing reflectance and water quality from inland and coastal waters.[DOI:10.1594/PANGAEA.948492](https://doi.org/10.1594/PANGAEA.948492)
 
 
-<h2 style="font-size:22px; color:#003366; margin-top:35px;">Refereed Publications</h2>
+<h2 style="font-size:25px; color:#003366; margin-top:35px;">Refereed Publications</h2>
 1. Werther, M., Burggraaff, O., Gurlin, D., Saranathan, A. M., **Balasubramanian, S.V.**, et al. (2025). *On the generalization ability of neural networks for hyperspectral remote sensing of absorption properties across optically complex waters.* **Remote Sensing of Environment**, 328.<a href="https://doi.org/10.1016/j.rse.2025.114820
 " target="_blank" style="color:#0066cc; text-decoration:none;">[Link]</a></li>  
 2. **Balasubramanian, S.V.**, et al. (2025). *Mixture density networks for reconstructing historical ocean-color products over inland and coastal waters: Demonstration and validation.* **Frontiers in Remote Sensing**, 6. <a href="https://www.frontiersin.org/journals/remote-sensing/articles/10.3389/frsen.2025.1488565/full" target="_blank" style="color:#0066cc; text-decoration:none;">[Link]</a></li> 
 3. Saranathan, A.M., Pahlevan, N., Werther, M., Odermatt, D., **Balasubramanian, S.V.** (2024). *Assessment of probabilistic neural networks for the dual estimation of water quality indicators and uncertainties from multi- and hyperspectral observations.* **Frontiers in Remote Sensing**, 5.<a href="https://www.frontiersin.org/journals/remote-sensing/articles/10.3389/frsen.2024.1383147/full" target="_blank" style="color:#0066cc; text-decoration:none;">[Link]</a></li>  
 4. Sandhani, C.G., Shanmugam, P., **Balasubramanian, S.V.**, Sannasiraj, S.A. (2024). *Influence of the Bubbles on the Hyperspectral Reflectance and Watercolour Products.* **IEEE Access**, 12.<a href="https://ieeexplore.ieee.org/abstract/document/10530631
 " target="_blank" style="color:#0066cc; text-decoration:none;">[Link]</a></li>  
-5. Pahlevan, N., **Balasubramanian, S.V.**, et al. (2024). *Going beyond Chlorophyll-a: A re-assessment of remote sensing reflectance products from heritage ocean color satellites over inland and coastal waters.* **IEEE Transactions on Geoscience and Remote Sensing**, 21.<a href="https://ieeexplore.ieee.org/abstract/document/10384403
+5. Pahlevan, N., **Balasubramanian, S.V.**, et al. (2024). *A Retrospective Analysis of Remote-Sensing Reflectance Products in Coastal and Inland Waters* **IEEE Geoscience and Remote Sensing Letters**, 21.<a href="https://ieeexplore.ieee.org/abstract/document/10384403
 " target="_blank" style="color:#0066cc; text-decoration:none;">[Link]</a></li>  
 6. Maciel, D.A., Pahlevan, N., Barbosa, C.C.F., Martins, V.S., Smith, B., O'Shea, R.E., **Balasubramanian, S.V.**, Saranathan, A.M., Novo, E.M.L.M. (2023). *Towards global long-term water transparency products from the Landsat archive.* **Remote Sensing of Environment**, 299, 113889.<a href="https://doi.org/10.1016/j.rse.2023.113889
 " target="_blank" style="color:#0066cc; text-decoration:none;">[Link]</a></li>  
